@@ -1,7 +1,8 @@
 # Shafi Chowdhury — papers, posters and presentations, as supplied 13 Nov 2026.
 # (theme, year, venue, title, authors, poster, link)  — link is None until supplied.
+# A relative link (no scheme) is a page on this site and opens in the same tab.
 PUBS = [
- ("Programming",2026,"PhUSE SDE, Frankfurt","What if the data does not support the expected decision?","Shafi Chowdhury, Shafi Consultancy",False,"https://www.shaficonsultancy.com/publications/if-data-support-expected-decision/"),
+ ("Programming",2026,"PhUSE SDE, Frankfurt","What if the data does not support the expected decision?","Shafi Chowdhury, Ephicacy Consulting Group",False,"data-does-not-support-expected-decision.html"),
  ("Programming",2025,"PhUSE SDE, Twickenham","Accelerating Clinical Data Flow from Protocol to Submission","Shafi Chowdhury, Shafi Consultancy & Subash Sadanandan, Datamatica",False,"https://www.shaficonsultancy.com/publications/accelerating-clinical-data-flow-protocol-submission/"),
  ("Programming",2023,"PhUSE EU Connect, Birmingham","Traceability confirmation at your fingertips","Shafi Chowdhury, Shafi Consultancy",False,"https://www.shaficonsultancy.com/publications/traceability-confirmation-your-fingertips/"),
  ("Programming",2022,"PhUSE EU Connect, Belfast","Streamlining the Usage of SAS, R and Python in our Process Workflow","Shafi Chowdhury, Shafi Consultancy",False,"https://www.shaficonsultancy.com/publications/streamlining-usage-sas-r-python-process/"),
